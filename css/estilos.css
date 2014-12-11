@@ -1,6 +1,17 @@
 .navigation li{
 	float: left;
 	margin: 10px;
-	 
 
 }
+ 
+
+ .main{
+ 	width: 960px;
+ 	margin: 0 auto;
+ }
+
+ .pesquisa{
+ 	
+ }
+
+ 
